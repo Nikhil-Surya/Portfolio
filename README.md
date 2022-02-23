@@ -8,4 +8,4 @@ Data Science Portfolio
 
 # [Project 2: Fake-News-Detection](https://github.com/nikhilwanshi/Fake-News-Detection)
 
-#[Project 3: market-basket-analysis](https://github.com/nikhilwanshi/market-basket-analysis)
+# [Project 3: market-basket-analysis](https://github.com/nikhilwanshi/market-basket-analysis)
