@@ -7,7 +7,7 @@ Data Science Portfolio
 * A project that trains a virtual car to how to move an object around a screen (drive itself) without running into obstacles using a type of reinforcement learning called Q-Learning.
 * The algorithm works using a reward system. I used Python and libraries such as NumPy, Pygame, Pymunk, Keras, and h5py.
 
-![](https://github.com/nikhilwanshi/Portfolio/raw/main/images/chase_gif_final.GIF)
+![](https://github.com/nikhilwanshi/Portfolio/raw/main/images/chase_gif_final.gif)
 
 # [Project 2: Fake-News-Detection](https://github.com/nikhilwanshi/Fake-News-Detection)
 
@@ -30,4 +30,4 @@ Different products given 7500 transactions over the course of a week at a French
 * This says how likely item Y is purchased when item X is purchased, expressed as {X -> Y}. This is measured by the proportion of transactions with item X, in which item Y also appears.
 * Lift(A -> B) refers to the increase in the ratio of sale of B when A is sold. Lift(A –> B) can be calculated by dividing Confidence(A -> B) divided by Support(B).
 
-![](https://github.com/nikhilwanshi/Portfolio/blob/main/images/market.png)
+![](https://github.com/nikhilwanshi/Portfolio/raw/main/images/market.png)
