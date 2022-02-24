@@ -5,6 +5,7 @@ Data Science Portfolio
 
 * A self-driving car, also known as an autonomous vehicle, driverless car, or robotic car, is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
 * A project that trains a virtual car to how to move an object around a screen (drive itself) without running into obstacles using a type of reinforcement learning called Q-Learning.
+* The algorithm works using a reward system. I used Python and libraries such as NumPy, Pygame, Pymunk, Keras, and h5py.
 
 # [Project 2: Fake-News-Detection](https://github.com/nikhilwanshi/Fake-News-Detection)
 
@@ -21,6 +22,6 @@ The topic of fake news detection on social media has recently attracted tremendo
 Different products given 7500 transactions over the course of a week at a French retail store. We have library(apyori) to calculate the association rule using Apriori. Association rule mining is a technique to identify underlying relations between different items. 
 
 * We have provide min_support, min_confidence, min_lift, and min length of sample-set for find rule.
-* Measure 1: Support :- This says how popular an itemset is, as measured by the proportion of transactions in which an itemset appears. In Table 1 below, the support of {apple} is  4 out of 8, or 50%. Itemsets can also contain multiple items. For instance, the support of {apple, beer, rice} is 2 out of 8, or 25%.
- * This says how likely item Y is purchased when item X is purchased, expressed as {X -> Y}. This is measured by the proportion of transactions with item X, in which item Y also appears.
+* Support :- This says how popular an itemset is, as measured by the proportion of transactions in which an itemset appears.
+* This says how likely item Y is purchased when item X is purchased, expressed as {X -> Y}. This is measured by the proportion of transactions with item X, in which item Y also appears.
 * Lift(A -> B) refers to the increase in the ratio of sale of B when A is sold. Lift(A –> B) can be calculated by dividing Confidence(A -> B) divided by Support(B).
