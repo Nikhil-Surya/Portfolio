@@ -6,7 +6,8 @@ Data Science Portfolio
 * A self-driving car, also known as an autonomous vehicle, driverless car, or robotic car, is a vehicle that is capable of sensing its environment and moving safely with little or no human input.
 * A project that trains a virtual car to how to move an object around a screen (drive itself) without running into obstacles using a type of reinforcement learning called Q-Learning.
 * The algorithm works using a reward system. I used Python and libraries such as NumPy, Pygame, Pymunk, Keras, and h5py.
-![](https://github.com/nikhilwanshi/Portfolio/blob/main/images/chase_gif_final.GIF)
+
+![](https://github.com/nikhilwanshi/Portfolio/raw/main/images/chase_gif_final.GIF)
 
 # [Project 2: Fake-News-Detection](https://github.com/nikhilwanshi/Fake-News-Detection)
 
@@ -19,7 +20,7 @@ The topic of fake news detection on social media has recently attracted tremendo
 * Once a source is labeled as a producer of fake news, we can predict with high confidence that any future articles from that source will also be fake news. 
 * Focusing on sources widens our article misclassification tolerance, because we will have multiple data points coming from each source.
 
-![](https://github.com/nikhilwanshi/Portfolio/blob/main/images/software-and-machine-learning-algorithms-to-detect-fake-news.JPG)
+![](https://github.com/nikhilwanshi/Portfolio/raw/main/images/software-and-machine-learning-algorithms-to-detect-fake-news.jpg)
 
 # [Project 3: market-basket-analysis](https://github.com/nikhilwanshi/market-basket-analysis)
 Different products given 7500 transactions over the course of a week at a French retail store. We have library(apyori) to calculate the association rule using Apriori. Association rule mining is a technique to identify underlying relations between different items. 
