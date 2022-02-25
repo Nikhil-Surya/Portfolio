@@ -1,5 +1,6 @@
 # Portfolio
-	BIG DATA ANALYTICS Portfolio
+BIG DATA ANALYTICS Portfolio
+
 College graduate passionate about studying how to improve performance. Seeking for master's Degree in Big Data Analytics to leverage data analytical skills to improve corporate performance as a data analyst.
 
 # [Project 1: Self-Driving-Car](https://github.com/nikhilwanshi/Self-Driving-Car)
